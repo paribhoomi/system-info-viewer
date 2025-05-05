@@ -1,0 +1,15 @@
+System: Windows 10
+Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+CPU Cores: 2 physical, 4 logical
+CPU Usage: 36.4%
+RAM: 7.73 GB total
+Used RAM: 6.73 GB
+Disk: 220.45 GB total, 92.2% used
+
+Top 5 Processes by Memory:
+
+PID 18224: Code.exe – 578.53 MB
+PID 19592: explorer.exe – 329.34 MB
+PID 23280: Code.exe – 263.95 MB
+PID 14720: Code.exe – 215.52 MB
+PID 3364: Code.exe – 208.44 MB
